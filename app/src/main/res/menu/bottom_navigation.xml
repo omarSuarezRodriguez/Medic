@@ -4,13 +4,13 @@
     <item
         android:id="@+id/nav_home"
         android:icon="@drawable/ic_home_black_24dp"
-        android:title="Inicio" />
+        android:title="Home" />
 
 
     <item
         android:id="@+id/nav_favorites"
         android:icon="@drawable/ic_favorite_black_24dp"
-        android:title="Mis Pacientes" />
+        android:title="Favorite" />
 
 
     <item
